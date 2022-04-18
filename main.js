@@ -7,7 +7,7 @@ car_height = 140;
 car_x = 0;
 car_y = 0;
 
-background_image = "../Parking-Lot.jpeg";
+background_image = "Parking-Lot.jpeg";
 car_image = "NicePng_car-top-view-png_546502.png";
 
 function add(){
